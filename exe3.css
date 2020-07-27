@@ -1,0 +1,19 @@
+img{
+	width: 100px;
+	height: 60px;
+}
+
+input{
+	border-radius: 50px;
+	width: 600px;
+	height: 30px;
+	
+}
+
+ hr{
+	background-color: grey;
+}
+
+h2{
+	color: blue;
+}
